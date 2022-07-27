@@ -1,4 +1,6 @@
-# This repos is for demotrating the integration with postman graphql Mock Server. 
+# Mock API
+
+This repos is for demotrating the integration with postman graphql Mock Server. 
 
 Document for setting up  postman mock server, https://learning.postman.com/docs/designing-and-developing-your-api/mocking-data/mocking-with-examples/ 
 
